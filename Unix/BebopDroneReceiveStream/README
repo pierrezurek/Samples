@@ -25,7 +25,4 @@ On Linux and MacOS X platform :
 ==================
 Purpose of BebopDroneReceiveStream
 ==================
-This sample shows how to receive video stream from a Parrot drone. The example is based on the Bebop Drone stream.
-The stream can be handled :
-* with ffplay to display in a window the video stream (DISPLAY_WITH_AVPLAY = 1)
-* write frames as jpeg files on file system (DISPLAY_WITH_AVPLAY = 0)
+This sample shows how to receive video stream from a Bebop Drone.
